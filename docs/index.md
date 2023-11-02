@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+---
+glightbox: false
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# **Welcome to Talent's Portal!**
 
-## Commands
+## **WHAT IS TALENT**
+The Advanced Low-dimensional Electronics & Nano-science Team (TALENT) are developing chip-scale sensor, actuator and microsystem for cutting-edge applications.  [Specific research areas of interest](./Research/SOT/SOT.md) include Micro-/Nano-Electro-Mechanical System (M/NEMS), novel multiferroic materials, PiezoMEMS transducers, CMOS IC as well as their applications in smart systems and Internet-Of-Things (IOT) etc.   We welcomes all STEM background people to join and explore fascinating micro/nano-technologies.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## **RECENT NEWS（内容远远不够，有待丰富）**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [SOT](./Research/SOT/SOT.md)
+* 课题组近期工作
+* 课题组近期成果
+* ET.
+
+## **About Talent**
+# "此处可以放课题组合影.jpg" 
+<img align="right" width="200px" src="./img/cat.jpg"/>
+ .
+Together, we form an unbreakable alliance
+
+For more information, please refer to (内部超链接范例)[CV](./News/News.md) page.
+
+
+## **下方可放合作部门的链接等**
+
+:material-emoticon-happy: [Place To Find Emojis' Icons](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
+:material-motorbike: [Far Ahead](https://www.bilibili.com/video/BV1Nh4y1v7w3/)
+:simple-bilibili: [Bilibili](https://www.bilibili.com/video/BV1Nh4y1v7w3/)

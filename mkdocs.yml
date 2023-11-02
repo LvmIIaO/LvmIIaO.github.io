@@ -1,4 +1,106 @@
-site_name: 石擎的个人网站
-site_url: https://lvmiiao.github.io/
-site_author: 大鸟转转转
-theme: 
+#[INFO]
+site_name: The Advanced Low-dimensional Electronics & Nano-science Team
+site_author: Qing Shi
+#[UI]
+theme:
+  name: material
+  palette:
+    #primary: light blue
+    - scheme: default # 日间模式
+      primary: custom # 上方的
+      accent: custom # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: Night mode # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: black 
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Day mode
+  features:
+    - navigation.tabs # 子标签栏
+    - navigation.tabs.sticky # 固定子标签栏
+    #- navigation expansion #允许左侧目录折叠
+    - navigation.path # 页面上方显示浏览路径
+    - toc.integrate # 左侧目录导航集成功能
+    - navigation.top # 回到页面顶端
+    - navigation.footer # 为网站增加页脚
+  font: # 改变网站字体
+    text: Ubuntu 
+  icon: # 改变网站图标
+    logo: simple/prisma # 此处改变的是页面主标题图标
+  favicon: img/favicon.png # 网站图标（标题栏中的图标）相对路径
+
+
+#[子标题栏]
+nav:
+  - Home: index.md # .md文件的相对路径（从docs文件夹开始算起）
+
+  - News: News/News.md
+
+  - Research:  #  在下方而非'Reasearch.md'中新增条目的目的是制造可折叠的页面！！！！！！
+      - SOT器件: Research/SOT/SOT.md # 三级目录的相对地址
+      - MBE: Research/MBE/MBE.md
+      - 低温器件研究: Research/CRYO/CRYO.md
+
+  - Publications: Publications/Publications
+
+  - Members: Members/Members.md
+
+  - Contact: Contact/Contact.md
+
+
+copyright: Copyright &copy; 2023 TALENT TEAM, All rights reserved # 网站底端页脚
+
+plugins:
+  - glightbox:
+      touchNavigation: true # 开启/关闭触摸导航（主标题）
+      loop: false # 结尾处循环滑动
+      effect: zoom # 灯箱打开效果的名称（可选择：zoom，fade，none）
+      slide_effect: slide # 灯箱幻灯片效果的名称（可选择：slide，zoomfade，none）
+      width: 100% # inline和iframe元素的宽度，可选任意值
+      height: auto # inline和帧的高度，可选任意值
+      zoomable: true # 启用/禁用可缩放图像
+      draggable: true # 启用/禁用鼠标拖动以移动到上一张和下一张幻灯片
+      skip_classes: # 禁用具有特定自定义类名的图像的灯箱
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom # 默认标题位置（可选择：bottom，top，left，right）
+  - search # 开启搜索功能
+
+extra:
+  generator: false  #删除页脚显示（若不带此代码则页脚会有一个‘Made with Material for MkDocs’的水印）
+
+markdown_extensions: # 对markdown语句的拓展
+  - abbr
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - pymdownx.arithmatex:  # latex支持
+      generic: true
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      # linenums: true # 显示行号
+      # auto_title: true # 显示编程语言名称
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences # 代码块高亮插件
+  - meta # 支持Markdown文件上方自定义标题标签等
+
+extra_javascript: # 对数学公式的扩展
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra_css: # CSS
+  - stylesheets/extra.css
+
+
+
