@@ -1,4 +1,4 @@
-#DR. Xufeng Kou
+#**DR. Xufeng Kou**
 :octicons-mail-16: kouxf@shanghaitech.edu.cn
 
 :octicons-briefcase-16: Office: SIST Bldg 3-318
@@ -13,4 +13,4 @@
 
 [ShanghaiTech University](https://www.shanghaitech.edu.cn/)
 
-<iframe src="https://map.baidu.com/@13536712.349412506,3634351.6042734766,21z" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img align="right" width="1500px" src="../locate.png"/>

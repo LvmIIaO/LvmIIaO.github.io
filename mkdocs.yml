@@ -40,9 +40,9 @@ nav:
   - News: News/News.md
 
   - Research:  #  在下方而非'Reasearch.md'中新增条目的目的是制造可折叠的页面！！！！！！
-      - SOT器件: Research/SOT/SOT.md # 三级目录的相对地址
+      - SOT DEVICES: Research/SOT/SOT.md # 三级目录的相对地址
       - MBE: Research/MBE/MBE.md
-      - 低温器件研究: Research/CRYO/CRYO.md
+      - CRYOGENIC DEVICES RESEARCH: Research/CRYO/CRYO.md
 
   - Publications: Publications/Publications
 

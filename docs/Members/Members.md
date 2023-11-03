@@ -3,7 +3,7 @@
 ##**KOU, XUFENG 寇煦丰**
 <img align="right" width="270px" src="../img/kou.jpg"/>
 ####Associate Professor, Assistant Dean
-DR. Xufeng Kou received my BS degree (with honor) in Chu Kochen Honors College and Optical Engineering from Zhejiang University (2009).      From 2009 to 2015, he received his MS and PhD degrees in Electrical Engineering from University of California, Los Angeles (UCLA), under the direction of Raytheon Chair Professor Kang L. Wang (IEEE Fellow).      After finishing the post-doctoral training at UCLA (2015-2016), he joined ShanghaiTech University as a tenure-track assistant professor in the School of Information Science and Technology (SIST) in 2016.    Since 2021, he have been promoted as the tenured associate professor and the assistant dean of SIST.
+DR. Xufeng Kou received his BS degree (with honor) in Chu Kochen Honors College and Optical Engineering from Zhejiang University (2009).      From 2009 to 2015, he received his MS and PhD degrees in Electrical Engineering from University of California, Los Angeles (UCLA), under the direction of Raytheon Chair Professor Kang L. Wang (IEEE Fellow).      After finishing the post-doctoral training at UCLA (2015-2016), he joined ShanghaiTech University as a tenure-track assistant professor in the School of Information Science and Technology (SIST) in 2016.    Since 2021, he has been promoted as the tenured associate professor and the assistant dean of SIST.
 
 DR. Xufeng Kou's main research areas include spintronics and cryogenic electronics. So far, He have published 3 book chapters, and co-authored 90+ peer-reviewed papers including Nature Electronics, Nature Materials, Nature Nanotechnology, Nature Communications, Science Advances, Physical Review Letters, Advanced Materials, Nano Letters, Proceedings of the IEEE, IEEE-IEDM, and IEEE-EDL with more than 7000 citations (h-index of 36).
 
@@ -59,6 +59,11 @@ DR. Xufeng Kou's main research areas include spintronics and cryogenic electroni
 
 <img align="left" width="150px" src="../img/蔡新雨.jpg"/>
 ##**CAI, XINYU 蔡新雨**
+	B.S. Physics, School of Physics and Optoelectronics, Xiangtan University (2017 - 2021) 
+
+	Ph.D. Condensed matter physics, School of Physical Science and Technology, ShanghaiTech University (2021 - present) 
+
+	Research Interest:  Artificial periodic superlattice
 
 
 <img align="right" width="150px" src="../img/朱轶尧.jpg"/>
@@ -120,6 +125,11 @@ DR. Xufeng Kou's main research areas include spintronics and cryogenic electroni
 
 <img align="right" width="150px" src="../img/张逸凡.jpg"/>
 ##**ZHANG, YIFAN 张逸凡**
+	B.S. Electronic Information Engineering, School of Information Science and Technology, ShanghaiTech University (2019 - 2023)
+
+	M.S. Electronic science and technology, School of Information Science and Technology, ShanghaiTech University (2023 - present) 
+
+	Research Interest: Topological Quantum Systems
 
 
 <img align="left" width="150px" src="../img/梁玉桢.jpg"/>
@@ -129,3 +139,9 @@ DR. Xufeng Kou's main research areas include spintronics and cryogenic electroni
 	M.S. Electronic science and technology, School of Information Science and Technology, ShanghaiTech University (2023 - present) 
 
 	Research Interest: Optical response of III-V group semiconductor 
+
+
+
+#**Alumni**
+
+##**UNDER IMPROVEMENT**

@@ -1,11 +1,13 @@
-###**量子反常霍尔效应**
-高质量材料的设计与制备对于实现多场调控的量子反常霍尔效应的研究尤为必要。本研究组利用分子束外延(MBE)技术制备出基于Cr掺杂的(Bi,Sb)2Te3的磁性拓扑绝缘体薄膜，并通过精确的层厚和掺杂变化发现了该体系中的拓扑相变。
+#**MBE**
+
+###**Quantum anomalous hall effect**
+Designation and fabrication of high-quality samples is essential to realize multi-field controllable QAH effect. Our group has fabricated wafer-scale magnetic topological insulator Cr doped (Bi,Sb)2Te3 thin films by molecular beam epitaxy (MBE) and found related topological phase transition through precise variation of thickness and doping level. 
 
 ![](./img/MBE1.png){: style="height:auto;width:1200px"}
 
 
 
-###**复合反常霍尔效应的调控**
-随着CMOS尺寸的微缩，功耗和经济成本问题越来越凸显。为了克服这些瓶颈，在后摩尔时代，发展操控电子自旋态的多功能自旋电子学器件具有十分重要的意义。我们课题组基于磁性拓扑绝缘体异质结通过对磁序和拓扑序的独立裁剪实现对电子自旋态的调控，实现了与贝里相位（Berry phase）相关的内秉反常霍尔效应（AHE）极性的操控。从而为磁性拓扑绝缘体在磁存储、磁传感器等方面的应用拓宽了途径。
+###**Tailoring the hybrid anomalous Hall effect (AHE)**
+With the shrinking of CMOS size, the problem of power consumption and economic cost become more and more prominent. In order to get over the bottleneck, in Post-Moore era, the development of multi-functional spintronics devices with operating electronic spin states is of great significance. Our group achieved the manipulation of electronic spin states through tailoring of magnetic order and topological order independently based on magnetic topological insulator heterostructure, which manipulated the sign of the Berry phase-associated anomalous Hall effect (AHE) component. This in turn unveils a new avenue for MTI heterostructure-based multi-functional applications, such as magnetic storage and magnetic sensors.
 
 ![](./img/MBE2.png){: style="height:auto;width:1200px"}

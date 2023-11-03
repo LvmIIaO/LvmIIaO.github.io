@@ -1,3 +1,5 @@
+#**Publishcations**
+
 1. P. Cheng*, Q. Yao*,#, J.Q Xu, Q. Sun, A.J Grutter, P. Quarterman, P.P Balakrishnan, C.J Kinane, A.J Caruana, S. Langridge, A. Li, B. Achinuq, E. Heppell, Y.C Ji, S.S Liu, B.S Cui, J.M Liu, P.Y Huang, Z.K Liu, G.Q Yu, F.X Xiu, T. Hesjedal, J. Zou, X.D Han, H.J Zhang, Y.M Yang#, and X.F Kou#, [Tailoring the Magnetic Exchange Interactions in Ferromagnet-Intercalated MnBi2Te4 Superlattices](https://www.nature.com/articles/s41928-022-00880-1), Nature Electronics, 2023-01, 6, 18–27
 
 2. X.Q Liu*, P.Y Huang*, Y.Y.Y Xia*, L. Gao, L.Y Liao, B.S Cui, D. Backes, G. van der Laan, T. Hesjedal, Y.C Ji, P. Chen, Y.F Zhang, F. Wu, M.X Wang, J.W Zhang, G.Q Yu, C. Song, Y.L Chen, Z.K Liu, Y.M Yang, Y. Peng, G. Li#, Q. Yao#, X.F Kou#, [Wafer-scale epitaxial growth of the thickness-controllable van der Waals ferromagnet CrTe2 for reliable magnetic memory applications](https://arxiv.org/abs/2207.05944), Advanced Functional Materials, 2023-07

@@ -1,15 +1,17 @@
+#**CRYOGENIC DEVICES RESERCH**
+
 ###**研究目标**
-聚焦于先进工艺CMOS器件低温物理及电性，探索一条建立能覆盖全温区、全尺寸、宽频域的通用低温直流/射频器件模型及低温电路设计平台的可靠道路，为低温电路设计与芯片制造构建桥梁。
+Focusing on the cryo-temperature physics and electrical properties of advanced technology CMOS devices, we explore a reliable way to establish a universal low-temperature DC/RF device model and cryo-temperature circuit design platform that can cover the full temperature region, full size and broadband domain, and build a bridge between cryo-temperature circuit design and chip manufacturing.
 
 ![](./img/CMOS1.png){: style="height:auto;width:1200px"}
 
 
 
-###**低温电路研究**
-量子计算外围控制电路设计
+###**CRYO-TEMPERATURE CIRCUIT RESEARCH**
+Design of peripheral control circuit for quantum computing
 
-面向高能效计算的低温存算系统设计
+Design of cryogenic temperature storage system for high energy efficiency calculation
 
-丰富的流片机会
+Abundant tape out opportunities
 
 ![](./img/CMOS2.png){: style="height:auto;width:1200px"}
