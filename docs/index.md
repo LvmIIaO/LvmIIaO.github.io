@@ -4,7 +4,7 @@ glightbox: false
 
 # **Welcome to Talent's Portal!**
 
-## **WHAT IS TALENT**
+## **WHAT IS TALENT（crtl V过来的初稿，假装有这么个东西）**
 The Advanced Low-dimensional Electronics & Nano-science Team (TALENT) are developing chip-scale sensor, actuator and microsystem for cutting-edge applications.  [Specific research areas of interest](./Research/SOT/SOT.md) include Micro-/Nano-Electro-Mechanical System (M/NEMS), novel multiferroic materials, PiezoMEMS transducers, CMOS IC as well as their applications in smart systems and Internet-Of-Things (IOT) etc.   We welcomes all STEM background people to join and explore fascinating micro/nano-technologies.
 
 
