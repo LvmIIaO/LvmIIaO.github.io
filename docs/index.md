@@ -12,7 +12,7 @@ The Advanced Low-dimensional Electronics & Nano-science Team (TALENT) are develo
 
 * [SOT](./Research/SOT/SOT.md)
 * 课题组近期工作
-* 课题组近期成果
+* [课题组近期成果(内部新闻范例-统一放置在archives文件夹下)](./Archives/1/1.md)
 * ET.
 
 ## **About Talent**
@@ -21,7 +21,6 @@ The Advanced Low-dimensional Electronics & Nano-science Team (TALENT) are develo
  .
 Together, we form an unbreakable alliance
 
-For more information, please refer to (内部新闻范例-统一放置在archives文件夹下)[CV](./Archives/1/1.md) page.
 
 
 ## **下方可放合作部门的链接等**
