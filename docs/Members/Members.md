@@ -111,6 +111,11 @@ DR. Xufeng Kou's main research areas include spintronics and cryogenic electroni
 
 <img align="left" width="150px" src="../img/姚珊.jpg"/>
 ##**YAO, SHAN 姚珊**
+	B.S. Electronic science and technology, School of Electronic science&engineering, SEU (2018 - 2022)
+
+	M.S. Electronic science and technology, School of Information Science and Technology, ShanghaiTech University (2022 - present) 
+
+	Research Interest: Magnetic material, SOT-switching
 
 
 <img align="right" width="150px" src="../img/张逸凡.jpg"/>
