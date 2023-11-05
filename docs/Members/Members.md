@@ -1,18 +1,21 @@
 #**MEMBERS**
 
+
 ##**KOU, XUFENG 寇煦丰**
-<img align="right" width="270px" src="../img/kou.jpg"/>
 ####Associate Professor, Assistant Dean
-DR. Xufeng Kou received his BS degree (with honor) in Chu Kochen Honors College and Optical Engineering from Zhejiang University (2009).      From 2009 to 2015, he received his MS and PhD degrees in Electrical Engineering from University of California, Los Angeles (UCLA), under the direction of Raytheon Chair Professor Kang L. Wang (IEEE Fellow).      After finishing the post-doctoral training at UCLA (2015-2016), he joined ShanghaiTech University as a tenure-track assistant professor in the School of Information Science and Technology (SIST) in 2016.    Since 2021, he has been promoted as the tenured associate professor and the assistant dean of SIST.
+<img align="left" width="270px" src="../img/kou.jpg"/>
+DR. Xufeng Kou received his BS degree (with honor) in Chu Kochen Honors College and Optical Engineering from Zhejiang University (2009). From 2009 to 2015, he received his MS and PhD degrees in Electrical Engineering from University of California, Los Angeles (UCLA), under the direction of Raytheon Chair Professor Kang L. Wang (IEEE Fellow). After finishing the post-doctoral training at UCLA (2015-2016), he joined ShanghaiTech University as a tenure-track assistant professor in the School of Information Science and Technology (SIST) in 2016. Since 2021, he has been promoted as the tenured associate professor and the assistant dean of SIST.
 
-DR. Xufeng Kou's main research areas include spintronics and cryogenic electronics. So far, He have published 3 book chapters, and co-authored 90+ peer-reviewed papers including Nature Electronics, Nature Materials, Nature Nanotechnology, Nature Communications, Science Advances, Physical Review Letters, Advanced Materials, Nano Letters, Proceedings of the IEEE, IEEE-IEDM, and IEEE-EDL with more than 7000 citations (h-index of 36).
+DR. Xufeng Kou's main research areas include spintronics and cryogenic electronics. So far, he has published 3 book chapters, and co-authored 90+ peer-reviewed papers including Nature Electronics, Nature Materials, Nature Nanotechnology, Nature Communications, Science Advances, Physical Review Letters, Advanced Materials, Nano Letters, Proceedings of the IEEE, IEEE-IEDM, and IEEE-EDL with more than 7000 citations (h-index of 36).
 
+<img align="right" width="270px" src="../img/姚岐.jpg"/>
 ##**YAO, QI 姚岐**
+####Associate Researcher
+Dr. Qi Yao obtained her Bachelor's degree (2013) and Ph. D. degree (2018) from Fudan University, studying on the film growth and physical properties of complex quantum materials via MBE and ARPES. She joined in ShanghaiTech University in September 2018 and her current research directions are the film fabrication, magneto-transport measurements and spintronics device design based on the topological materials. She chairs research projects from Shanghai Sailing Program and the National Natural Science Foundation of China.
 
 ##**TANG, CHENJIA 汤辰佳**
 
 ##**KAGAN IREZ**
-
 
 
 #**Graduate Students**
@@ -72,6 +75,11 @@ DR. Xufeng Kou's main research areas include spintronics and cryogenic electroni
 
 <img align="left" width="150px" src="../img/何畅.jpg"/>
 ##**HE, CHANG 何畅**
+	B.S. Electronic Information Engineering, School of Information Science and Technology, ShanghaiTech University (2019 - 2023)
+
+	Ph.D. Electronic science and technology, School of Information Science and Technology, ShanghaiTech University (2023 - present)
+
+	Research Interest: Cryogenic CMOS device and circuit
 
 
 <img align="right" width="150px" src="../img/黄浦阳.jpg"/>
