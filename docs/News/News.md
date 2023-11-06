@@ -1,5 +1,8 @@
 ##**2023**
 
+####[X. Liu, P. Huang, Y. Xia et al. have published one paper "Wafer-Scale Epitaxial Growth of the Thickness-Controllable Van Der Waals Ferromagnet CrTe2 for Reliable Magnetic Memory Applications" in ADVANCED FUNCTION MATERIALS !](../Archives/1001/1001.md)
+—————————————————————————————————————————————2023-10-26
+
 ####[拾·年| 那些对SISTor说的话](https://sist.shanghaitech.edu.cn/2023/1009/c2858a1082857/page.htm)
 —————————————————————————————————————————————2023-10-09
 
